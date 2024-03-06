@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Internet connection Exercise</string>
+    <string name="instruction">Enter book name, or part of a book name, or just name some text from a book to find full book title and who wrote the book</string>
+    <string name="enter_books_here">Enter Books Here</string>
+    <string name="search">SEARCH</string>
+    <string name="title">Title</string>
+    <string name="author">Author</string>
+</resources>
